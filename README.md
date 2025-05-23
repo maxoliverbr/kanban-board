@@ -1,3 +1,7 @@
+# Vibe coding with v0.
+
+This was one of my best results with v0, I'm not a React dev, played very little with CSS. So v0 in this context was perfect. 
+
 # Kanban Board
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
@@ -15,12 +19,6 @@ Any changes you make to your deployed app will be automatically pushed to this r
 Your project is live at:
 
 **[https://vercel.com/maxoliverbrs-projects/v0-kanban-board](https://vercel.com/maxoliverbrs-projects/v0-kanban-board)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/un2eN5uy7x4](https://v0.dev/chat/projects/un2eN5uy7x4)**
 
 ## How It Works
 
