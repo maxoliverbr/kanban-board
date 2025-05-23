@@ -18,7 +18,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/maxoliverbrs-projects/v0-kanban-board](https://vercel.com/maxoliverbrs-projects/v0-kanban-board)**
+**https://v0.dev/community/kanban-board-GucOf0KoBlB**
 
 ## How It Works
 
